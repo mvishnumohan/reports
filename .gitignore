@@ -1,0 +1,19 @@
+# Maven
+target/
+
+# Eclipse
+eclipse.userlibraries
+.classpath
+.project
+.settings
+.sts4-cache/*
+
+# Generated files
+*.class
+*.minified
+*.pyc
+bin
+ebuild
+
+# Lombok
+lombok.config

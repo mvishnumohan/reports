@@ -1,0 +1,1 @@
+INSERT INTO `websparrow`.`emp` (`empno`, `comm`, `deptno`, `ename`, `hiredate`, `job`, `mgr`, `sal`) VALUES ('2', '2', '2', 'cds', '2009-11-03 00:00:00', 'dfgsa', '2', '15000');
